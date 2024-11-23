@@ -14,8 +14,8 @@
 
 
 ## <h1 style= "font: 15px; "> Order model </h1>
-### 1. Order a Bike
+### 6. Order a Bike
 <a> https://bike-store-kappa.vercel.app/api/orders </a>
-### 2. Calculate Revenue from Orders (Aggregation)
+### 7. Calculate Revenue from Orders (Aggregation)
 <a> https://bike-store-kappa.vercel.app/api/orders/revenue </a>
 
