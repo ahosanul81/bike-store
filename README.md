@@ -1,4 +1,4 @@
-# bike-store
+# Bike Store
 # Overview
 <div> 
 <p> This backend project is made for a bike store. There has collection of bike . User can buy own choise. This project is useful for a bike lover and bike seller. Bike seller can add and show his avilable product and Bike lover can buy his own choise. </p>
