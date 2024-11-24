@@ -21,7 +21,7 @@
     <li>Express: For routing and middleware.</li>
     <li>Mongoose: For MongoDB object modeling.</li>
     <li>TypeScript: For type safety and better code quality.</li>
-    <li>Others (e.g., dotenv, Jest for testing, etc.).</li>
+    <li>Others (e.g., dotenv etc.).</li>
   
   </ul>
 </div>
